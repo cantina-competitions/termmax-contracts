@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "prettier-plugin-solidity": "^1.4.1",
+    "ts-node": ">=8.0.0",
+    "typescript": ">=4.5.0"
+  }
+}

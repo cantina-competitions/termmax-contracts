@@ -1,0 +1,4 @@
+{
+  "prettier.documentSelectors": ["**/*.sol"],
+  "printWidth": 120
+}
